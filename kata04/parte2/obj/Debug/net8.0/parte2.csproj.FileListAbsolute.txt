@@ -1,0 +1,15 @@
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\bin\Debug\net8.0\parte2.exe
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\bin\Debug\net8.0\parte2.deps.json
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\bin\Debug\net8.0\parte2.runtimeconfig.json
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\bin\Debug\net8.0\parte2.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\bin\Debug\net8.0\parte2.pdb
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.AssemblyInfoInputs.cache
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.AssemblyInfo.cs
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.csproj.CoreCompileInputs.cache
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.sourcelink.json
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\refint\parte2.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.pdb
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\parte2.genruntimeconfig.cache
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\parte2\obj\Debug\net8.0\ref\parte2.dll
