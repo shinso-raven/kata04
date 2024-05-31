@@ -1,0 +1,15 @@
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\bin\Debug\net8.0\kata04.exe
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\bin\Debug\net8.0\kata04.deps.json
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\bin\Debug\net8.0\kata04.runtimeconfig.json
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\bin\Debug\net8.0\kata04.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\bin\Debug\net8.0\kata04.pdb
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.AssemblyInfoInputs.cache
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.AssemblyInfo.cs
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.csproj.CoreCompileInputs.cache
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.sourcelink.json
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\refint\kata04.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.pdb
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\kata04.genruntimeconfig.cache
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Kata04\kata04\obj\Debug\net8.0\ref\kata04.dll
