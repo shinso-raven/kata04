@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{36498F53-080E-4D8D-BE57-01BCAA352CDF}|parte2\\parte2.csproj|c:\\users\\radha\\onedrive\\01 desarrollo\\practicas de programaci\u00F3n\\tendencias desarollo de software\\kata04\\kata04\\parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36498F53-080E-4D8D-BE57-01BCAA352CDF}|parte2\\parte2.csproj|solutionrelative:parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB6BDEF-D6A7-419E-972B-72BE88BB74E0}|LecturaDat\\LecturaDat.csproj|c:\\users\\radha\\onedrive\\01 desarrollo\\practicas de programaci\u00F3n\\tendencias desarollo de software\\kata04\\kata04\\lecturadat\\lectordat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB6BDEF-D6A7-419E-972B-72BE88BB74E0}|LecturaDat\\LecturaDat.csproj|solutionrelative:lecturadat\\lectordat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12C3F91C-C0D4-46A6-9ACE-92E672A01865}|parte1\\parte1.csproj|c:\\users\\radha\\onedrive\\01 desarrollo\\practicas de programaci\u00F3n\\tendencias desarollo de software\\kata04\\kata04\\parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12C3F91C-C0D4-46A6-9ACE-92E672A01865}|parte1\\parte1.csproj|solutionrelative:parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\parte2\\Program.cs",
+              "RelativeDocumentMoniker": "parte2\\Program.cs",
+              "ToolTip": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\parte2\\Program.cs",
+              "RelativeToolTip": "parte2\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:08:42.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -30,13 +52,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "LectorDat.cs",
+              "DocumentMoniker": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\LecturaDat\\LectorDat.cs",
+              "RelativeDocumentMoniker": "LecturaDat\\LectorDat.cs",
+              "ToolTip": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\LecturaDat\\LectorDat.cs",
+              "RelativeToolTip": "LecturaDat\\LectorDat.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwHwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:30:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\parte1\\Program.cs",
               "RelativeDocumentMoniker": "parte1\\Program.cs",
               "ToolTip": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programaci\u00F3n\\Tendencias desarollo de software\\Kata04\\kata04\\parte1\\Program.cs",
               "RelativeToolTip": "parte1\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswFUAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T10:04:55.07Z",
               "EditorCaption": ""

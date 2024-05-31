@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "parte2/1.0.0": {
+        "dependencies": {
+          "LecturaDat": "1.0.0"
+        },
         "runtime": {
           "parte2.dll": {}
+        }
+      },
+      "LecturaDat/1.0.0": {
+        "runtime": {
+          "LecturaDat.dll": {}
         }
       }
     }
   },
   "libraries": {
     "parte2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LecturaDat/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
