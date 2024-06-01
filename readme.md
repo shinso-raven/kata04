@@ -12,7 +12,9 @@ Take the two programs written previously and factor out as much common code as p
 
 ## Kata Questions
 To what extent did the design decisions you made when writing the original programs make it easier or harder to factor out common code?
+- Por buena practica, hice funciones, separando los procesos haciendo facil convertir en codigo comun.
 
 Was the way you wrote the second program influenced by writing the first?
+- Por supuesto, instantaneamente me di cuenta de repetir lo mismo y vi la oportunidad de copiar codigo del anterior programa.
 
 Is factoring out as much common code as possible always a good thing? Did the readability of the programs suffer because of this requirement? How about the maintainability?
